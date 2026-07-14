@@ -7,7 +7,7 @@ import {
 } from 'lucide-react';
 
 // --- CONFIGURATION ---
-const WA_NUMBER = "6281234567890";
+const WA_NUMBER = "6285856618965";
 const WA_INFO_TEXT = "Halo Cak Tolong Cak, saya ingin bertanya mengenai layanan yang tersedia.";
 
 // --- DATA ---
